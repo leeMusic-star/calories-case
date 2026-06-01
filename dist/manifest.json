@@ -1,0 +1,17 @@
+{
+  "name": "热量查询 - 喝前查一查",
+  "short_name": "热量查询",
+  "description": "快速查询各大品牌饮品热量，喜茶、奈雪、蜜雪冰城、茶百道等主流品牌全覆盖",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#6366f1",
+  "background_color": "#f5f7fa",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧋</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
