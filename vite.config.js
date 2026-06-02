@@ -6,6 +6,6 @@ export default defineConfig({
   base: '/calories-case/',
   server: {
     host: '0.0.0.0',
-    port: 300,
+    port: 3000,
   },
 });
