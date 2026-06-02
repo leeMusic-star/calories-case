@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+   "homepage": "https://leemusic-star.github.io/calories-case",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
