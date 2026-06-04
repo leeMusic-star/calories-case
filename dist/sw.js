@@ -2,8 +2,8 @@
 const CACHE_NAME = 'calories-case-v1';
 
 const PRECACHE_URLS = [
-  '/',
-  '/index.html',
+  './',
+  './index.html',
 ];
 
 self.addEventListener('install', (event) => {
